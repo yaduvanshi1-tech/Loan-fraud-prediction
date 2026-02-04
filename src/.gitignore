@@ -1,0 +1,32 @@
+Virtual environments
+
+.venv/
+env/
+
+Python cache
+
+pycache/
+*.pyc
+
+Jupyter
+
+.ipynb_checkpoints/
+
+Data files
+
+*.csv
+*.xlsx
+
+Model files
+
+.pkl
+.joblib
+
+Environment variables
+
+.env
+
+OS files
+
+.DS_Store
+Thumbs.db
